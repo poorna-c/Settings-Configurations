@@ -1,0 +1,57 @@
+
+remove-appxpackage Microsoft.BingWeather_4.25.20211.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.DesktopAppInstaller_1.0.30251.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.GetHelp_10.1706.13331.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.Getstarted_7.3.20251.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.Messaging_4.1901.10241.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.Microsoft3DViewer_5.1902.20012.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.MicrosoftOfficeHub_18.1901.1141.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.MicrosoftSolitaireCollection_4.2.11280.0_x86__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.Office.OneNote_16001.11126.20076.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.OneConnect_5.1902.361.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.People_10.1812.10232.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.Print3D_3.3.311.0_x64__8wekyb3d8bbwe
+
+
+remove-appxpackage Microsoft.SkypeApp_14.35.152.0_x64__kzf8qxf38zg5c
+
+remove-appxpackage Microsoft.StorePurchaseApp_11811.1001.18.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.Wallet_2.4.18324.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.WindowsFeedbackHub_1.1811.10571.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.WindowsMaps_5.1812.10071.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.WindowsSoundRecorder_10.1812.10043.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.Xbox.TCUI_1.23.28002.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.XboxApp_48.48.7001.0_x64__8wekyb3d8bbwe
+
+
+remove-appxpackage Microsoft.XboxGameOverlay_1.32.17005.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.XboxGamingOverlay_2.26.14003.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.XboxIdentityProvider_12.50.6001.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.XboxSpeechToTextOverlay_1.17.29001.0_x64__8wekyb3d8bbwe
+
+
+remove-appxpackage Microsoft.ZuneVideo_10.18111.17311.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.ZuneMusic_10.18111.17311.0_x64__8wekyb3d8bbwe
+
+remove-appxpackage Microsoft.YourPhone_0.0.13313.0_x64__8wekyb3d8bbwe
