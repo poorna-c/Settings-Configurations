@@ -8,4 +8,5 @@ Things that are need to be done after installing of OS(Windows or any Linux flav
 
 ### Windows - Permanently Disable Cortana.
    Cortana is Microsoft AI System. This is not so intellegent to work with and also consume your system RAM. Disable
-   it can save you some RAM.
+   it can save you some RAM. Follow the steps in the file to disable cortana permanently. (It can be reversable for 
+   your future use).
