@@ -1,0 +1,24 @@
+Open RegEdit
+
+HKEY_LOCAL_MACHINE
+	|
+	|
+	|_ SOFTWARE
+		|
+		|
+		|_ Policies
+			|
+			|
+			|_ Microsoft
+				|
+				|
+				|_Windows
+					|
+					|
+					|_ (Create Windows Search) Key Here
+
+Under Windows Create Key with name Windows Search(W and S with Caps)
+
+Create DWORD(32-bit) Value Under Windows Search Key with Name "AllowCortana" and set the value with 0. (You can change the value to 1 in future to re enable the cortana)
+
+Restart...
