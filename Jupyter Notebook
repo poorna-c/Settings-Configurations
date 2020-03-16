@@ -1,0 +1,8 @@
+Installing / Adding Virtual Environment to Jupyter Notebook
+  - python -m ipykernel install --user --name=myenv
+  
+  
+Uninstalling / Removing Kernal from jupyter notebook
+  - jupyter kernelspec uninstall myenv
+  
+  
